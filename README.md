@@ -1,9 +1,9 @@
 # HackerRank answers
 
-This repository holds submitted answers to the problems on [HackerRank](https://www.hackerrank.com).
+This repository holds the answers submitted to the problems on [HackerRank](https://www.hackerrank.com) site.
 
 ### Compiling and running
-Most of the answers have been written in C++. Their names end with **.cc** suffix.  I am using the latest standard, which is now C++14 / C++1y.  The compiler I've used is g++. In order to compile a solution *filename.cc*, issue the following command:
+Most of the answers have been written in C++. Their names end with **.cc** suffix.  I am using the latest standard, which is now C++14 / C++1y. The compiler I am using is g++. In order to compile a solution *filename.cc*, issue the following command:
 ```
 g++ -o output filename.cc --std=c++1y
 ```
