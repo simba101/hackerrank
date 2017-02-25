@@ -1,0 +1,19 @@
+Testcase0: 4
+There are two astronauts from country A and two from country B.
+As such, a total of 4 multinational pairs are possible.
+
+Testcase1: 16
+There are four astronauts from country A and four from country B.
+As such, a total of 16 multinational pairs are possible.
+
+Testcase2: 1
+A degenerated case.
+There are two astronauts only and each one is from a distinct country.
+As such, only one pair is possible.
+
+Testcase3: 34
+There are four astronauts from country A, six from country B
+and one from country C. In this setting, a total of:
+|A| * |B| + |A| * |C| + |B| * |C| == 24 + 4 + 6 == 34 pairs possible.
+
+(the algorithm seems to work correctly, ready to submit.)
